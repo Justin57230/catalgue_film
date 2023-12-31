@@ -1,0 +1,94 @@
+/* style.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+#serieForm {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: bold;
+    color: #333;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="file"],
+input[type="url"] {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0 15px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="submit"] {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+#seasonsContainer {
+    margin-top: 15px;
+}
+
+h2, h3 {
+    color: #333;
+}
+
+#seasonsContainer > div {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+}
+
+#seasonsContainer input[type="number"] {
+    width: 50px;
+}
+
+#episodesContainer_1, #episodesContainer_2, #episodesContainer_3 {
+    margin-top: 10px;
+}
+
+#episodesContainer_1 > div,
+#episodesContainer_2 > div,
+#episodesContainer_3 > div {
+    background-color: #f4f4f4;
+    padding: 8px;
+    margin-bottom: 8px;
+    border-radius: 4px;
+}
+
+#episodesContainer_1 label,
+#episodesContainer_2 label,
+#episodesContainer_3 label {
+    display: inline-block;
+    width: 120px;
+    margin-right: 10px;
+}

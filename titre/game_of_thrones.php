@@ -1,0 +1,100 @@
+<?php $episodeTitles = array (
+  'S1' => 
+  array (
+    0 => 'L\'hiver vient',
+    1 => 'La Route royale',
+    2 => 'Lord Snow',
+    3 => 'Infirmes, Bâtards et Choses brisées',
+    4 => 'Le Loup et le Lion',
+    5 => 'Une couronne dorée',
+    6 => 'Gagner ou mourir',
+    7 => 'Frapper d\'estoc',
+    8 => 'Baelor',
+    9 => 'De feu et de sang',
+  ),
+  'S2' => 
+  array (
+    0 => 'Le Nord se souvient',
+    1 => 'Les Contrées nocturnes',
+    2 => 'Ce qui est mort ne saurait mourir',
+    3 => 'Le Jardin des os',
+    4 => 'Le Fantôme d\'Harrenhal',
+    5 => 'Les Anciens et les Nouveaux Dieux',
+    6 => 'Un homme sans honneur',
+    7 => 'Le Prince de Winterfell',
+    8 => 'La Néra',
+    9 => 'Valar Morghulis',
+  ),
+  'S3' => 
+  array (
+    0 => 'Valar Dohaeris',
+    1 => 'Noires ailes, noires nouvelles',
+    2 => 'Les Immaculés',
+    3 => 'Voici que son tour de garde est fini',
+    4 => 'Le Baiser du feu',
+    5 => 'L\'Ascension',
+    6 => 'L\'Ours et la Belle',
+    7 => 'Les Puînés',
+    8 => 'Les Pluies de Castamere',
+    9 => 'Mhysa',
+  ),
+  'S4' => 
+  array (
+    0 => 'Deux Épées',
+    1 => 'Le Lion et la Rose',
+    2 => 'Briseuse de chaînes',
+    3 => 'Féale',
+    4 => 'Premier du nom',
+    5 => 'Les Lois des dieux et des hommes',
+    6 => 'L\'Oiseau moqueur',
+    7 => 'La Montagne et la Vipère',
+    8 => 'Les Veilleurs au rempart',
+    9 => 'Les Enfants',
+  ),
+  'S5' => 
+  array (
+    0 => 'Les Guerres à venir',
+    1 => 'La Demeure du Noir et du Blanc',
+    2 => 'Le Grand Moineau',
+    3 => 'Les Fils de la Harpie',
+    4 => 'Tue l\'enfant',
+    5 => 'Insoumis, Invaincus, Intacts',
+    6 => 'Le Cadeau',
+    7 => 'Durlieu',
+    8 => 'La Danse des dragons',
+    9 => 'La Miséricorde de la mère',
+  ),
+  'S6' => 
+  array (
+    0 => 'La Femme rouge',
+    1 => 'La Maison',
+    2 => 'Le Briseur de serments',
+    3 => 'Le Livre de l\'Étranger',
+    4 => 'La Porte',
+    5 => 'De mon sang',
+    6 => 'L\'Homme brisé',
+    7 => 'Personne',
+    8 => 'La Bataille des bâtards',
+    9 => 'Les Vents de l\'hiver',
+  ),
+  'S7' => 
+  array (
+    0 => 'Peyredragon',
+    1 => 'Du Typhon',
+    2 => 'La Justice de la reine',
+    3 => 'Les Butins de la guerre',
+    4 => 'Fort-Levant',
+    5 => 'Au-delà du Mur',
+    6 => 'Le Dragon et le Loup',
+  ),
+  'S8' => 
+  array (
+    0 => 'Winterfell',
+    1 => 'Un chevalier des Sept Couronnes',
+    2 => 'La Longue Nuit',
+    3 => 'Les Derniers des Stark',
+    4 => 'Les Cloches',
+    5 => 'Le Trône de fer',
+  ),
+);
+?>

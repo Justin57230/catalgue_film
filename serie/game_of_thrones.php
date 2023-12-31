@@ -1,0 +1,100 @@
+<?php $episodeURLs = array (
+  'S1' => 
+  array (
+    0 => 'https://uqload.io/embed-ahe2tbufdcn8.html',
+    1 => 'https://uqload.io/embed-kcycoocoxvcl.html',
+    2 => 'https://uqload.io/embed-tatn1pc9adda.html',
+    3 => 'https://uqload.io/embed-v01w9klk14f8.html',
+    4 => 'https://uqload.io/embed-rbc7kq11ze1e.html',
+    5 => 'https://uqload.io/embed-wpnyeq1l6x3r.html',
+    6 => 'https://uqload.io/embed-e0rv0r3tos5p.html',
+    7 => 'https://uqload.io/embed-7sr95xp2jxsc.html',
+    8 => 'https://uqload.io/embed-9hay951bodm6.html',
+    9 => 'https://uqload.io/embed-ahe2tbufdcn8.html',
+  ),
+  'S2' => 
+  array (
+    0 => 'https://uqload.io/embed-dsp31sk41ju7.html',
+    1 => 'https://uqload.io/embed-ls11eq1720vu.html',
+    2 => 'https://uqload.io/embed-ep3hl67jl0v3.html',
+    3 => 'https://uqload.io/embed-kajt6jjy8ncf.html',
+    4 => 'https://uqload.io/embed-rpqkov3q13b8.html',
+    5 => 'https://uqload.io/embed-mkzo1krax9qr.html',
+    6 => 'https://uqload.io/embed-j9itzpho8j1v.html',
+    7 => 'https://uqload.io/embed-6pyy74bmrp2g.html',
+    8 => 'https://uqload.io/embed-8hks17q79x5e.html',
+    9 => 'https://uqload.io/embed-g9h3zioby7z5.html',
+  ),
+  'S3' => 
+  array (
+    0 => 'https://uqload.io/embed-6qp324a8vsz7.html',
+    1 => 'https://uqload.io/embed-vcic9zgeatyd.html',
+    2 => 'https://uqload.io/embed-mdpm9dacis0r.html',
+    3 => 'https://uqload.io/embed-t2kfml1d1e9o.html',
+    4 => 'https://uqload.io/embed-zmpz15mqr55c.html',
+    5 => 'https://uqload.io/embed-liu5gthstd0j.html',
+    6 => 'https://uqload.io/embed-gyzmpi93qmc4.html',
+    7 => 'https://uqload.io/embed-mqcp6putw6hy.html',
+    8 => 'https://uqload.io/embed-7odk3gr5ribm.html',
+    9 => 'https://uqload.io/embed-xh88iyta7dmv.html',
+  ),
+  'S4' => 
+  array (
+    0 => 'https://uqload.io/embed-a7nhpr9xgc5e.html',
+    1 => 'https://uqload.io/embed-ds4ie4waikx2.html',
+    2 => 'https://uqload.io/embed-w0vyp9x93cjc.html',
+    3 => 'https://uqload.io/embed-ma59goqjokpv.html',
+    4 => 'https://uqload.io/embed-s2lladmr4bqb.html',
+    5 => 'https://uqload.io/embed-hieam0cd88cg.html',
+    6 => 'https://uqload.io/embed-w2wkx3kbyq0m.html',
+    7 => 'https://uqload.io/embed-lpknbzejsneb.html',
+    8 => 'https://uqload.io/embed-adavkfpquu14.html',
+    9 => 'https://uqload.io/embed-673xoad17zks.html',
+  ),
+  'S5' => 
+  array (
+    0 => 'https://uqload.io/embed-6j23z8dv3xwo.html',
+    1 => 'https://uqload.io/embed-3j0bgcoqcgvr.html',
+    2 => 'https://uqload.io/embed-ch40t2tlo24s.html',
+    3 => 'https://uqload.io/embed-d9p6h776ees9.html',
+    4 => 'https://uqload.io/embed-awvjh2w2c7uf.html',
+    5 => 'https://uqload.io/embed-fv7see20lsf7.html',
+    6 => 'https://uqload.io/embed-k7sg43caaxmk.html',
+    7 => 'https://uqload.io/embed-mwugpdvquf30.html',
+    8 => 'https://uqload.io/embed-stvh43yjkywf.html',
+    9 => 'https://uqload.io/embed-us2bdg3wk7jn.html',
+  ),
+  'S6' => 
+  array (
+    0 => 'https://uqload.io/embed-q8ekvxi3xsgg.html',
+    1 => 'https://uqload.io/embed-lv2mzw13uroj.html',
+    2 => 'https://uqload.io/embed-y1ketkduof6f.html',
+    3 => 'https://uqload.io/embed-ijk4j3hemajd.html',
+    4 => 'https://uqload.io/embed-c35xh3m3bs8r.html',
+    5 => 'https://uqload.io/embed-pv47atqsfqlw.html',
+    6 => 'https://uqload.io/embed-k368onhsh3ff.html',
+    7 => 'https://uqload.io/embed-1ujqmdxsewzp.html',
+    8 => 'https://uqload.io/embed-10nfdjayrbiv.html',
+    9 => 'https://uqload.io/embed-v52qr3aq142h.html',
+  ),
+  'S7' => 
+  array (
+    0 => 'https://uqload.io/embed-qq4byp8y5hub.html',
+    1 => 'https://uqload.io/embed-wc4nywcqvw7r.html',
+    2 => 'https://uqload.io/embed-px92vmwg4yqs.html',
+    3 => 'https://uqload.io/embed-80cy969xq94c.html',
+    4 => 'https://uqload.io/embed-k8k3vyvw6wkc.html',
+    5 => 'https://uqload.io/embed-13obyttpihj6.html',
+    6 => 'https://uqload.io/embed-zf69h8q8rbh8.html',
+  ),
+  'S8' => 
+  array (
+    0 => 'https://uqload.io/embed-cziv8kumtsve.html',
+    1 => 'https://uqload.io/embed-ybtniz03xlno.html',
+    2 => 'https://uqload.io/embed-wwpdnkg9cnk4.html',
+    3 => 'https://uqload.io/embed-nc43dc99ew20.html',
+    4 => 'https://uqload.io/embed-sb55tl4el884.html',
+    5 => 'https://uqload.io/embed-btj33gkcy4sw.html',
+  ),
+);
+$currentSeason = "S1"; $currentEpisodeIndex = 1; ?>
